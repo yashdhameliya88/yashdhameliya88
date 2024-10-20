@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Dhameliya!;" />
 </h1>
 
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a freelancing marketplace**
 
-💬 Ask me about **React, Java Script, Material UI, Tailwind CSS... or anything [here](https://github.com/yashdhameliya88/yashdhameliya88/issues)**
+- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
 
 <div align="center"> 
   <a href="mailto:yashdhameliya98@gmail.com">
@@ -34,9 +34,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- <img src="https://skillicons.dev/icons?i=react,vite,tailwind,mui,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,c,java,mysql" /><br> -->
-    ![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15)
+      <!-- <img src="https://skillicons.dev/icons?i=react,vite,tailwind,mui,bootstrap,html,css,vscode,github,figma,git" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,c,java,mysql" /><br> -->
+    <img src=https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15/>
 </div>
 
 <hr>
@@ -84,8 +84,8 @@
 </div>
 <hr>
 
-[![Yash Dhameliya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashdhameliya88&theme=tokyonight)](https://github.com/yashdhameliya88/)
-<hr>
+<!-- [![Yash Dhameliya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashdhameliya88&theme=tokyonight)](https://github.com/yashdhameliya88/) -->
+<!-- <hr> -->
 
 
 <div align="center">
