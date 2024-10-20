@@ -34,10 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-      <!-- <img src="https://skillicons.dev/icons?i=react,vite,tailwind,mui,bootstrap,html,css,vscode,github,figma,git" /> -->
-      <img src="https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress" />
-      <!-- <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,c,java,mysql" /><br> -->
-    <!-- <img src=https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15/> -->
+      <img src="https://skillicons.dev/icons?i=nodejs,react,redux,java,js,jquery,regex,nextjs,aws,azure,bootstrap,c,cs,cpp,cloudflare,codepen,html,css,docker,dotnet,express,figma,firebase,gcp,git,github,githubactions,gitlab,linkedin,linux,mongodb,mysql,netlify,nginx,ps,php,electron,postgres,powershell,py,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress" />
 </div>
 
 <hr>
